@@ -1,0 +1,130 @@
+{
+  "prepared_date": "2026-10-27",
+  "source_references": 12,
+  "unique_binary_files": 11,
+  "private_archive": "Originals retained separately; restricted references not republished.",
+  "sources": [
+    {
+      "original_filename": "Beacon_Team5_BISM7208_Final_Pitch_Deck.pdf (3).pptx",
+      "bytes": 7273073,
+      "source_sha256": "6cb6f9507357b33ae0c6cda2789dbdaa10ff0c8a8b9de75bbf20eda46ff20696",
+      "duplicate_of": null,
+      "publication_path": "docs/presentations/beacon-pitch-19-slides.pptx",
+      "publication_treatment": "Personal creator and last-modified-by metadata cleared; all other ZIP entries unchanged.",
+      "publication_sha256": "31d595b0991c7861cbdbeea4dcbea37e643d2a172b07fcc9fc1cb2978126d900"
+    },
+    {
+      "original_filename": "Beacon_Team5_BISM7208_Final_Pitch_Deck.pdf (3).pptx.pptx",
+      "bytes": 10576040,
+      "source_sha256": "72e9795041df4a5edf4189094a4e5122e69056aa9b09afb1f30bcb213fd16872",
+      "duplicate_of": null,
+      "publication_path": "docs/presentations/beacon-pitch-17-slides.pptx",
+      "publication_treatment": "Personal creator and last-modified-by metadata cleared; all other ZIP entries unchanged.",
+      "publication_sha256": "dc53116c4415f83001eda09f51b59f761896b0937cfed5419b975a3202ac89dd"
+    },
+    {
+      "original_filename": "Beacon_Team5_BISM7208_Final_Pitch_Deck.pdf (1).pdf",
+      "bytes": 63724911,
+      "source_sha256": "a134d492d1454fe21b7b3f4c95b6dc255e80c0884cc3a350214994f32197f8fa",
+      "duplicate_of": null,
+      "publication_path": "docs/presentations/beacon-pitch-19-pages.pdf",
+      "publication_treatment": "Exact original bytes.",
+      "publication_sha256": "a134d492d1454fe21b7b3f4c95b6dc255e80c0884cc3a350214994f32197f8fa"
+    },
+    {
+      "original_filename": "UQ_Microsoft_Youth_Crime_Challenge.pdf",
+      "bytes": 457954,
+      "source_sha256": "941af3316c9d88c118a7f42574840038b0038d8b1e186b611ba50d1f92ae1951",
+      "duplicate_of": null,
+      "publication_path": null,
+      "publication_treatment": "Private archive only; original Confidential/Internal metadata retained."
+    },
+    {
+      "original_filename": "BISM7208_A3_Rubric.pdf",
+      "bytes": 135028,
+      "source_sha256": "24bb6c5619817720162b79792d45eb21620846e79f6ffd1cfa55d0a74665c349",
+      "duplicate_of": null,
+      "publication_path": null,
+      "publication_treatment": "Private archive only; original Confidential/Internal metadata retained."
+    },
+    {
+      "original_filename": "Slide_G_Revenue_Model.png",
+      "bytes": 226056,
+      "source_sha256": "c31afdb71971683a8cf9e8f9fa89127f95bd57930200042fbd2251681993b48b",
+      "duplicate_of": null,
+      "publication_path": "docs/design-history/Slide_G_Revenue_Model.png",
+      "publication_treatment": "Exact original bytes.",
+      "publication_sha256": "c31afdb71971683a8cf9e8f9fa89127f95bd57930200042fbd2251681993b48b"
+    },
+    {
+      "original_filename": "Slide_D_ask_marked.png",
+      "bytes": 373314,
+      "source_sha256": "07977d6b1e0d9a36fd88c4604b1dafda376a5aa6c198b698294eae9020a9a90c",
+      "duplicate_of": null,
+      "publication_path": "docs/design-history/Slide_D_ask_marked.png",
+      "publication_treatment": "Exact original bytes.",
+      "publication_sha256": "07977d6b1e0d9a36fd88c4604b1dafda376a5aa6c198b698294eae9020a9a90c"
+    },
+    {
+      "original_filename": "Slide_A_revenue_marked.png",
+      "bytes": 370174,
+      "source_sha256": "751b090d306ce05ad17636e15b77b079015c6f7c0076370cbe9474bacad074ed",
+      "duplicate_of": null,
+      "publication_path": "docs/design-history/Slide_A_revenue_marked.png",
+      "publication_treatment": "Exact original bytes.",
+      "publication_sha256": "751b090d306ce05ad17636e15b77b079015c6f7c0076370cbe9474bacad074ed"
+    },
+    {
+      "original_filename": "Slide_C_risk_marked.png",
+      "bytes": 391352,
+      "source_sha256": "c755e1be23fa90ec37daa155361d8335bb3ccfe3cbf94fe1c4de5e4c2826c25f",
+      "duplicate_of": null,
+      "publication_path": "docs/design-history/Slide_C_risk_marked.png",
+      "publication_treatment": "Exact original bytes.",
+      "publication_sha256": "c755e1be23fa90ec37daa155361d8335bb3ccfe3cbf94fe1c4de5e4c2826c25f"
+    },
+    {
+      "original_filename": "Slide_B_cost_marked.png",
+      "bytes": 402189,
+      "source_sha256": "2a0a1d78be58e17e5ab14d73c9560b1ac1cce899e2d1b46d3ad6547b12847499",
+      "duplicate_of": null,
+      "publication_path": "docs/design-history/Slide_B_cost_marked.png",
+      "publication_treatment": "Exact original bytes.",
+      "publication_sha256": "2a0a1d78be58e17e5ab14d73c9560b1ac1cce899e2d1b46d3ad6547b12847499"
+    },
+    {
+      "original_filename": "WhatsApp Image 2026-10-26 at 16.33.15 (1).jpeg",
+      "bytes": 2141385,
+      "source_sha256": "1b4ec48afc89df905ee3a4f1f986ed84d6bd81efac8a6fed07db26d9d88fa909",
+      "duplicate_of": null,
+      "publication_path": "docs/assets/hackathon-team.jpg",
+      "publication_treatment": "Exact original bytes.",
+      "publication_sha256": "1b4ec48afc89df905ee3a4f1f986ed84d6bd81efac8a6fed07db26d9d88fa909"
+    },
+    {
+      "original_filename": "WhatsApp Image 2026-10-26 at 16.33.15.jpeg",
+      "bytes": 2141385,
+      "source_sha256": "1b4ec48afc89df905ee3a4f1f986ed84d6bd81efac8a6fed07db26d9d88fa909",
+      "duplicate_of": "WhatsApp Image 2026-10-26 at 16.33.15 (1).jpeg",
+      "publication_path": "docs/assets/hackathon-team.jpg",
+      "publication_sha256": "1b4ec48afc89df905ee3a4f1f986ed84d6bd81efac8a6fed07db26d9d88fa909"
+    }
+  ],
+  "derived_previews": [
+    {
+      "path": "docs/assets/beacon-cover.png",
+      "source": "docs/presentations/beacon-pitch-19-pages.pdf",
+      "page": 1
+    },
+    {
+      "path": "docs/assets/proposed-microsoft-architecture.png",
+      "source": "docs/presentations/beacon-pitch-19-pages.pdf",
+      "page": 6
+    },
+    {
+      "path": "docs/assets/prototype-journey.png",
+      "source": "docs/presentations/beacon-pitch-19-pages.pdf",
+      "page": 7
+    }
+  ]
+}
