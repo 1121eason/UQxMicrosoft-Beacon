@@ -51,7 +51,7 @@ Our team achieved **second place in the 2026 UQ–Microsoft Digital Transformati
 
 ![Team and event participants at the UQ Business Information Systems and Analytics Capstone Grand Final Hackathon](docs/assets/hackathon-team.jpg)
 
-The event photograph documents the grand-final setting. The award result is recorded from my account of the event; a separate organiser-issued result notice or certificate was not supplied. See [achievement provenance](docs/evidence/achievement.md).
+Read the [achievement record](docs/evidence/achievement.md) and [my contribution statement](docs/my-contribution.md) for the event context and my role in the shared team project.
 
 ## Review the project
 

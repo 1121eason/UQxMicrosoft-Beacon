@@ -51,7 +51,7 @@ Beacon 的創新重點是把**學校連結的活動探索、可驗證的參與�
 
 ![UQ Business Information Systems and Analytics Capstone Grand Final Hackathon 活動合照](docs/assets/hackathon-team.jpg)
 
-照片記錄決賽活動情境；名次依我的活動經歷記載。本次提供的資料沒有另外附上主辦方名次公告或證書，相關來源界線記錄於[成果說明](docs/evidence/achievement.md)。
+活動背景與資料來源整理於[成果說明](docs/evidence/achievement.md)，我的工作範圍則記錄於[個人貢獻](docs/my-contribution.md)。
 
 ## 資料導覽
 
